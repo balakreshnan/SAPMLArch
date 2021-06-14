@@ -19,4 +19,4 @@ Moving data from SAP and legacy systems are more cumbersome and time consuming a
 
 Not only that SAP HANA systems doesn't provide Machine learning or deep learning platform choice like Azure Machine learning does. Azure Machine learning products provide access to python and R based programming and also allows us to use Tensorflow, pytorch and other open source programming lanugages while maintaining the data science life cycle across end to end.
 
-![alt text](https://github.com/balakreshnan/SAPMLArch/blob/master/images/SAPMLbusinessarch.png "Business Architecture")
+![alt text](https://github.com/balakreshnan/SAPMLArch/blob/master/images/SAPMLbusinessarch.jpg "Business Architecture")
