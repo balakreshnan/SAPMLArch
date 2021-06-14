@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T16:07:16.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="ILn5yQSar1Ef73GD-j4h" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-14T14:21:10.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="B5FWuyvIyq6_0t1EvtOR" version="14.7.7" type="github">
   <diagram id="CUg5kIm4h3RE6FH3jLXT" name="ML Business Architecture">
-    <mxGraphModel dx="1122" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,7 +165,7 @@
         <mxCell id="GfWKtc_v5-ul72PLcQqI-59" value="Twitter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="39" y="250" width="81" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="n4oyMPaBW0hCQtKeoCHl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GfWKtc_v5-ul72PLcQqI-60" target="n4oyMPaBW0hCQtKeoCHl-1">
+        <mxCell id="n4oyMPaBW0hCQtKeoCHl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="GfWKtc_v5-ul72PLcQqI-60" target="n4oyMPaBW0hCQtKeoCHl-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GfWKtc_v5-ul72PLcQqI-60" value="Data Lake" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
@@ -210,10 +210,10 @@
         <mxCell id="GfWKtc_v5-ul72PLcQqI-74" value="REST Api" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="719.5" y="510" width="81" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="n4oyMPaBW0hCQtKeoCHl-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/technology-83/1000/business_data-driven_model_data_biographical_data_data_modelling_database-128.png" vertex="1" parent="1">
+        <mxCell id="n4oyMPaBW0hCQtKeoCHl-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/technology-83/1000/business_data-driven_model_data_biographical_data_data_modelling_database-128.png" parent="1" vertex="1">
           <mxGeometry x="424" y="462" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="n4oyMPaBW0hCQtKeoCHl-2" value="Common Data Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="n4oyMPaBW0hCQtKeoCHl-2" value="Common Data Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="417.5" y="520" width="81" height="40" as="geometry" />
         </mxCell>
       </root>
